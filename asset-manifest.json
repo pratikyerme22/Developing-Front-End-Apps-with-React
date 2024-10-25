@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Developing-Front-End-Apps-with-React/static/css/main.38ff01a4.css",
+    "main.js": "/Developing-Front-End-Apps-with-React/static/js/main.53ddafbe.js",
+    "index.html": "/Developing-Front-End-Apps-with-React/index.html",
+    "main.38ff01a4.css.map": "/Developing-Front-End-Apps-with-React/static/css/main.38ff01a4.css.map",
+    "main.53ddafbe.js.map": "/Developing-Front-End-Apps-with-React/static/js/main.53ddafbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ff01a4.css",
+    "static/js/main.53ddafbe.js"
+  ]
+}
